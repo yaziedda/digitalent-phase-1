@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="desc_app">Katalog Film kangen kamu nih!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language_settings">Pengaturan</string>
+    <string name="favorit_film_settings">Favorit Film</string>
+    <string name="favorit_tv_settings">Favorit Acara TV</string>
+    <string name="tab_1">Film</string>
+    <string name="tab_2">Acara TV</string>
+    <string name="movies_fav_delete_0">Hapus dari Film favorit</string>
+    <string name="movies_fav_delete_1">Berhasil menambahkan ke Film favorit</string>
+    <string name="search_movie">Cari Film..</string>
+    <string name="search_tv">Cari Acara TV..</string>
+
+    <string-array name="movies_title">
+        <item>Avengers: Infinity War (2018)</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Joker</item>
+        <item>Terminator: Dark Fate</item>
+        <item>Maleficent: Mistress of Evil</item>
+        <item>One Piece: Stampede</item>
+        <item>El Camino: A Breaking Bad Movie</item>
+        <item>Good Boys</item>
+        <item>Doctor Sleep</item>
+        <item>Zombieland: Double Tap</item>
+    </string-array>
+
+    <string-array name="movies_desc">
+        <item> Saat Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah menyebabkan hingga saat ini nasib Bumi dan keberadaannya tidak pernah lebih tidak pasti. </item>
+        <item> Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Saat Wilson Kingpin Fisk menggunakan collider super, yang lain dari seluruh Spider-Verse diangkut ke dimensi ini. </item>
+        <item> Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya namun menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+        <item> Selama 1980-an, seorang komedian gagal gagal menjadi gila dan berubah menjadi kehidupan kriminal dan kacau di Kota Gotham sambil menjadi tokoh kejahatan psikopat yang terkenal. </item>
+        <item> Lebih dari dua dekade telah berlalu sejak Sarah Connor mencegah Hari Penghakiman, mengubah masa depan, dan menulis ulang nasib umat manusia. Dani Ramos menjalani kehidupan sederhana di Mexico City bersama saudara lelaki dan ayahnya ketika seorang Terminator baru yang sangat maju dan mematikan, Rev-9 melakukan perjalanan kembali melalui waktu untuk berburu dan membunuhnya. Kelangsungan hidup Danis tergantung pada kekuatannya bergabung dengan dua pejuang: Grace, seorang prajurit super yang ditingkatkan dari masa depan, dan seorang Sarah Connor yang berjuang keras. Saat Rev-9 tanpa ampun menghancurkan segalanya dan semua orang di jalurnya untuk berburu Dani, ketiganya mengarah ke T-800 dari masa lalu Sarah yang mungkin menjadi harapan terbaik terakhir mereka. </item>
+        <item> Maleficent dan putri baptisnya Aurora mulai mempertanyakan ikatan keluarga kompleks yang mengikat mereka saat mereka ditarik ke arah yang berbeda dengan pernikahan yang akan datang, sekutu yang tak terduga, dan pasukan baru yang gelap sedang bermain. </item>
+        <item> One Piece: Stampede adalah film yang berdiri sendiri yang merayakan Hari Jadi ke-20 animes dan berlangsung di luar kanon serial TV One Piece. Monkey D. Luffy dan kru bajak laut Topi Jerami diundang ke Festival Bajak Laut besar yang membawa banyak karakter paling ikon dari seluruh waralaba untuk berpartisipasi dalam kompetisi dengan Topi Jerami untuk menemukan harta Rogers. Itu juga mengadu Topi Jerami melawan musuh baru bernama Bullet, mantan anggota kru Rogers. </item>
+        <item> Di tengah pelarian dramatisnya dari penawanan, Jesse Pinkman harus berdamai dengan masa lalunya untuk menempa semacam masa depan. </item>
+        <item> Sekelompok anak laki-laki yang berada di puncak menjadi remaja memulai upaya epik untuk memperbaiki pesawat tak berawak mereka sebelum orang tua mereka pulang. </item>
+        <item> Dan Torrance yang mabuk, pecandu alkohol bertemu Abra, seorang anak yang juga memiliki kemampuan untuk bersinar. Dia mencoba melindunginya dari True Knot, sebuah sekte yang tujuannya adalah untuk memberi makan orang-orang seperti mereka agar tetap abadi. \ N </item>
+        <item> Columbus, Tallahassee, Wichita, dan Little Rock pindah ke jantung Amerika saat mereka berhadapan dengan zombie berevolusi, sesama yang selamat, dan rasa sakit yang tumbuh dari keluarga darurat sementara yang sombong. </item>
+    </string-array>
+
+    <string-array name="movies_release">
+        <item>April 27, 2018</item>
+        <item>Desember 14, 2018</item>
+        <item>Desember 14, 2018</item>
+        <item>Oktober 4, 2019</item>
+        <item>November 1, 2019</item>
+        <item>Oktober 18, 2019</item>
+        <item>Oktober 18, 2019</item>
+        <item>Oktober 11, 2019</item>
+        <item>Agustus 16, 2019</item>
+        <item>November 8, 2019</item>
+        <item>November 8, 2019</item>
+    </string-array>
+
+    <string-array name="movies_url_img">
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/tximyCXMEnWIIyOy9STkOduUprG.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/p69QzIBbN06aTYqRRiCOY1emNBh.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/pIcV8XXIIvJCbtPoxF9qHMKdRr2.jpg</item>
+    </string-array>
+
+    <string-array name="tv_show_title">
+        <item>Watchmen</item>
+        <item>Daybreak</item>
+        <item>Tom Clancys Jack Ryan</item>
+        <item>The Mandalorian</item>
+        <item>The Witcher</item>
+        <item>The Walking Dead</item>
+        <item>American Horror Story</item>
+        <item>Peaky Blinders</item>
+        <item>See</item>
+        <item>The Kominsky Method</item>
+        <item>BoJack Horseman</item>
+    </string-array>
+
+    <string-array name="tv_show_desc">
+        <item> Ditetapkan dalam sejarah alternatif di mana warga bertopeng diperlakukan sebagai penjahat, Watchmen merangkul nostalgia dari novel grafis terobosan asli dengan nama yang sama, ketika mencoba untuk memecahkan landasan baru sendiri. </item>
+        <item> SMA yang diasingkan Josh sedang mencari pacarnya yang hilang di Glendale pascaapokaliptik. Dia bergabung dengan sekelompok Angelica yang tidak pantas dan mantan pengganggu Wesley. Dalam perjalanan mereka akan menghadapi banyak hal aneh. </item>
+        <item> Seorang analis CIA yang sedang naik daun, Jack Ryan, didorong masuk ke dalam penugasan lapangan berbahaya saat ia mengungkap pola dalam komunikasi teroris yang meluncurkannya ke pusat penjudi berbahaya. </item>
+        <item> Kerja keras seorang penembak jitu di bagian terluar galaksi, jauh dari otoritas Republik Baru. </item>
+        <item> Geralt of Rivia, seorang pemburu monster yang sendirian, berjuang untuk menemukan tempatnya di dunia di mana orang sering terbukti lebih jahat daripada binatang buas. </item>
+        <item> Wakil Sheriff Rick Grimes bangun dari koma untuk mengetahui bahwa dunia ini hancur, dan harus memimpin sekelompok orang yang selamat untuk tetap hidup. </item>
+        <item> Serial antologi yang berpusat pada karakter dan lokasi yang berbeda, termasuk rumah dengan masa lalu yang mematikan, rumah sakit jiwa, coven penyihir, sirkus pertunjukan aneh, hotel berhantu, rumah pertanian yang dimiliki, sekte, kiamat, dan sebuah kemah musim panas. </item>
+        <item> Epik keluarga gangster berlatar tahun 1919 Birmingham, Inggris; berpusat pada geng yang menjahit pisau cukur di puncak topi mereka, dan bos mereka yang ganas Tommy Shelby. </item>
+        <item> Jauh di masa depan dystopian, umat manusia telah kehilangan indera penglihatan, dan masyarakat harus menemukan cara baru untuk berinteraksi, membangun, berburu, dan bertahan hidup. Semua itu ditentang ketika sepasang kembar lahir dengan penglihatan. </item>
+        <item> Seorang aktor yang sudah tua, yang sejak lama menikmati kuas dengan ketenaran, mencari nafkah sebagai pelatih akting. </item>
+        <item> BoJack Horseman adalah bintang dari acara televisi hit Horsin Around di tahun 80an dan 90an, sekarang dia sudah bersih, tinggal di Hollywood, mengeluh tentang segala hal, dan mengenakan sweater berwarnawarni. </item>
+    </string-array>
+
+    <string-array name="tv_show_release">
+        <item>2019</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2013</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2014</item>
+    </string-array>
+
+    <string-array name="tv_show_url_img">
+        <item>https://m.media-amazon.com/images/M/MV5BMDBkOWI2MzMtNGMxOC00MjI2LWFhZWUtMGFmNjc1M2Y0YmRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BM2MxNzI3MmItZmIzNC00NjYxLWIzMDEtMzdiNWFhYWVmYTU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNDg1Zjc4YzktMmRmZi00ZWJmLWJiYzgtYjg3MmE0OTM1NzY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYTQ0NzUyMTAtOTMzMS00ZDAwLWI1NjktYTVhN2Y0MzcwOGU5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BODZlYzc2ODYtYmQyZS00ZTM4LTk4ZDQtMTMyZDdhMDgzZTU0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWI2ZmM5ZTgtOTgxYS00MTQ4LThkMjQtZjBlNGM3NjQ5YTI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMDg1NDNiNTUtOWQyMi00ZmFhLTg0YTEtNzgyYjBiMjhhOWE3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWQwMDNkM2MtODU4OS00OTY3LTgwOTItNjE2Yzc0MzRkMDllXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+    </string-array>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Tidak ada favorit</string>
+
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="summary_daily_reminder">Aktifkan/matikan pegingat harian. Anda akan menerima pengingat harian pada pukul 7 pagi</string>
+    <string name="summary_release_reminder">Aktifkan/matikan pegingat harian rilis film. Anda akan menerima pengingat harian rilis film yang akan datang setiap pukul 8 pagi</string>
+    <string name="on_movie_release_reminder">Aktifkan pengingat film setiap hari</string>
+    <string name="message_daily">Ayo cek Katalog Film untuk melihat info film terbaru</string>
+
+</resources>

@@ -1,3 +1,143 @@
 <resources>
-    <string name="app_name">Food Yazied DA</string>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="desc_app">Catalogue Movie missing you!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language_settings">Setting</string>
+    <string name="favorit_film_settings">Favorit Movies</string>
+    <string name="favorit_tv_settings">Favorit TV Show</string>
+    <string name="tab_1">Movies</string>
+    <string name="tab_2">TV Show</string>
+    <string name="movies_fav_delete_0">Delete from favorit Movies</string>
+    <string name="movies_fav_delete_1">Success add to favorit Movies</string>
+    <string name="search_movie">Search Movies..</string>
+    <string name="search_tv">Search TV Show..</string>
+
+    <string-array name="movies_title">
+        <item>Avengers: Infinity War (2018)</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Joker</item>
+        <item>Terminator: Dark Fate</item>
+        <item>Maleficent: Mistress of Evil</item>
+        <item>One Piece: Stampede</item>
+        <item>El Camino: A Breaking Bad Movie</item>
+        <item>Good Boys</item>
+        <item>Doctor Sleep</item>
+        <item>Zombieland: Double Tap</item>
+    </string-array>
+
+    <string-array name="movies_desc">
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson Kingpin Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet finding a way to keep the band together amid the success and excess.</item>
+        <item>During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</item>
+        <item>More than two decades have passed since Sarah Connor prevented Judgment Day, changed the future, and re-wrote the fate of the human race. Dani Ramos is living a simple life in Mexico City with her brother and father when a highly advanced and deadly new Terminator a Rev-9 travels back through time to hunt and kill her. Danis survival depends on her joining forces with two warriors: Grace, an enhanced super-soldier from the future, and a battle-hardened Sarah Connor. As the Rev-9 ruthlessly destroys everything and everyone in its path on the hunt for Dani, the three are led to a T-800 from Sarah’s past that may be their last best hope.</item>
+        <item>Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.</item>
+        <item>One Piece: Stampede is a stand-alone film that celebrates the animes 20th Anniversary and takes place outside the canon of the One Piece TV series. Monkey D. Luffy and his Straw Hat pirate crew are invited to a massive Pirate Festival that brings many of the most iconic characters from throughout the franchise to participate in competition with the Straw Hats to find Rogers treasure. It also pits the Straw Hats against a new enemy named Bullet, a former member of Rogers crew.</item>
+        <item>In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.</item>
+        <item>A group of young boys on the cusp of becoming teenagers embark on an epic quest to fix their broken drone before their parents get home.</item>
+        <item>A traumatized, alcoholic Dan Torrance meets Abra, a kid who also has the ability to shine. He tries to protect her from the True Knot, a cult whose goal is to feed off people like them in order to remain immortal.\n</item>
+        <item>Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.</item>
+    </string-array>
+
+    <string-array name="movies_release">
+        <item>April 27, 2018</item>
+        <item>December 14, 2018</item>
+        <item>December 14, 2018</item>
+        <item>October 4, 2019</item>
+        <item>November 1, 2019</item>
+        <item>October 18, 2019</item>
+        <item>October 18, 2019</item>
+        <item>October 11, 2019</item>
+        <item>August 16, 2019</item>
+        <item>November 8, 2019</item>
+        <item>November 8, 2019</item>
+    </string-array>
+
+    <string-array name="movies_url_img">
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/tBuabjEqxzoUBHfbyNbd8ulgy5j.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/tximyCXMEnWIIyOy9STkOduUprG.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/p69QzIBbN06aTYqRRiCOY1emNBh.jpg</item>
+        <item>https://image.tmdb.org/t/p/w370_and_h556_bestv2/pIcV8XXIIvJCbtPoxF9qHMKdRr2.jpg</item>
+    </string-array>
+
+    <string-array name="tv_show_title">
+        <item>Watchmen</item>
+        <item>Daybreak</item>
+        <item>Tom Clancys Jack Ryan</item>
+        <item>The Mandalorian</item>
+        <item>The Witcher</item>
+        <item>The Walking Dead</item>
+        <item>American Horror Story</item>
+        <item>Peaky Blinders</item>
+        <item>See</item>
+        <item>The Kominsky Method</item>
+        <item>BoJack Horseman</item>
+    </string-array>
+
+    <string-array name="tv_show_desc">
+        <item>Set in an alternate history where masked vigilantes are treated as outlaws, Watchmen embraces the nostalgia of the original groundbreaking graphic novel of the same name, while attempting to break new ground of its own.</item>
+        <item>High school outcast Josh is searching for his missing girlfriend in post apocalyptic Glendale. Hes joined by a group of misfits Angelica and his former bully Wesley. On the way theyll face many weird things.</item>
+        <item>An upandcoming CIA analyst, Jack Ryan, is thrust into a dangerous field assignment as he uncovers a pattern in terrorist communication that launches him into the center of a dangerous gambit.</item>
+        <item>The travails of a lone gunfighter in the outer reaches of the galaxy, far from the authority of the New Republic.</item>
+        <item>Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.</item>
+        <item>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.</item>
+        <item>An anthology series centering on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show circus, a haunted hotel, a possessed farmhouse, a cult, the apocalypse, and a slasher summer camp.</item>
+        <item>A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.</item>
+        <item>Far in a dystopian future, the human race has lost the sense of sight, and society has had to find new ways to interact, build, hunt, and to survive. All of that is challenged when a set of twins is born with sight.</item>
+        <item>An aging actor, who long ago enjoyed a brush with fame, makes his living as an acting coach.</item>
+        <item>BoJack Horseman was the star of the hit television show "Horsin Around" in the 80s and 90s, now hes washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.</item>
+    </string-array>
+
+    <string-array name="tv_show_release">
+        <item>2019</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2013</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2014</item>
+    </string-array>
+
+    <string-array name="tv_show_url_img">
+        <item>https://m.media-amazon.com/images/M/MV5BMDBkOWI2MzMtNGMxOC00MjI2LWFhZWUtMGFmNjc1M2Y0YmRhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BM2MxNzI3MmItZmIzNC00NjYxLWIzMDEtMzdiNWFhYWVmYTU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNDg1Zjc4YzktMmRmZi00ZWJmLWJiYzgtYjg3MmE0OTM1NzY5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYTQ0NzUyMTAtOTMzMS00ZDAwLWI1NjktYTVhN2Y0MzcwOGU5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BODZlYzc2ODYtYmQyZS00ZTM4LTk4ZDQtMTMyZDdhMDgzZTU0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWI2ZmM5ZTgtOTgxYS00MTQ4LThkMjQtZjBlNGM3NjQ5YTI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMDg1NDNiNTUtOWQyMi00ZmFhLTg0YTEtNzgyYjBiMjhhOWE3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BYWQwMDNkM2MtODU4OS00OTY3LTgwOTItNjE2Yzc0MzRkMDllXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</item>
+    </string-array>
+    <string name="appwidget_text">Favorit Movies</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Favorit not added</string>
+
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="summary_daily_reminder">Turn on/off daily reminder. You will receive daily reminder at 7AM</string>
+    <string name="on_movie_release_reminder">Turn on movie release daily reminder </string>
+    <string name="off_movie_release_reminder">Turn off movie release daily reminder </string>
+    <string name="message_daily">Let\'s check Catalogue Movie to get new movies info</string>
+    <string name="language_title">Localization</string>
+    <string name="lang">Language</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="summary_release_reminder">Turn on/off new movie release reminder. You will receive daily movie release info at 8AM</string>
+    <string name="release_movie_message">%s Release today, check and watch it!</string>
+
 </resources>
